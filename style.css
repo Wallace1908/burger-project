@@ -4,3 +4,6 @@ h1 {
     align-items: center;
     height: 100vh;
 }
+body {
+    background-color: #f8c291;
+}
